@@ -1,0 +1,6 @@
+settings,best_score,first_guess,best_epoch
+seed-1-lr-0.001-n_layers-5-pretrain-save_model-n_epochs-500-split_word-0.8-wd-0.1,6.999399662017822,tuvcv,2
+seed-1-lr-0.001-n_layers-5-pretrain-save_model-n_epochs-500-split_word-0.8-wd-0.01,6.999399662017822,tzrdv,2
+pretrain-n_epochs-500-split_word-0.8-n_layers-5,5.985899925231934,trips,414
+seed-1-lr-0.001-n_layers-5-pretrain-save_model-n_epochs-500-split_word-0.8-wd-0.001,6.62529993057251,xuhvw,462
+seed-1-lr-0.001-n_layers-5-pretrain-save_model-n_epochs-500-split_word-0.8-wd-0,5.948299884796143,ersup,492
